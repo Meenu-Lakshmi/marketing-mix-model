@@ -5,13 +5,21 @@ The analysis uses **ElasticNet regression** with Bayesian hyperparameter tuning,
 
 ---
 
+# MMM Weekly – Revenue Modeling
+
+This project builds a **Marketing Mix Model (MMM)** using weekly data to explain and forecast **Revenue** based on marketing activities and business drivers.  
+The analysis uses **ElasticNet regression** with Bayesian hyperparameter tuning, proper time-series validation, and a causal perspective where **Google spend is treated as a mediator** between social/display and revenue.
+
+---
+
 ## 📂 Repository Structure
+```text
 mmm-weekly/
 ├── data/
 │   └── Assessment2_MMM_Weekly.csv   # weekly dataset
-├── mmm-analysis2.ipynb               # full Colab-ready notebook
-├── Short_Writeup.md                  # short project summary
-└── README.md                         # this file
+├── notebook.ipynb                   # full Colab-ready notebook
+├── Short_Writeup.md                 # short project summary
+└── README.md                        # this file
 
 
 ---
