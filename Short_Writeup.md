@@ -1,9 +1,7 @@
 
 ---
 
-# 📄 Short_Writeup.md  
 
-```markdown
 # Marketing Mix Modeling – Executive Summary
 
 This project builds a machine learning model to **explain and forecast revenue** using weekly marketing and business driver data.
@@ -59,5 +57,3 @@ This project builds a machine learning model to **explain and forecast revenue**
 - Assumes trend/seasonality remain stable; sudden external shocks may reduce reliability.  
 
 ---
-
-✅ Overall, this project delivers a **technically rigorous, causally aware, interpretable, and practically useful MMM pipeline**, suitable for guiding marketing investment and pricing decisions.
