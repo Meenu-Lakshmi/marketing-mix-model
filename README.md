@@ -49,3 +49,9 @@ This structure supports modeling both **product levers** (price, promotions) and
 3. Install dependencies if needed:
    ```python
    !pip install optuna scikit-learn pandas matplotlib seaborn statsmodels
+## ▶️ Run in Colab
+
+You can open and run the notebook directly in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/mmm-weekly/blob/main/notebook.ipynb)
+
