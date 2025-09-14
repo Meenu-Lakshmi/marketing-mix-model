@@ -8,10 +8,10 @@ The analysis uses **ElasticNet regression** with Bayesian hyperparameter tuning,
 ## 📂 Repository Structure
 mmm-weekly/
 ├── data/
-│ └── Assessment2_MMM_Weekly.csv # weekly dataset
-├── mmm-analysis2.ipynb # full Colab-ready noteboo
-├── Short_Writeup.md # short project summary
-├── README.md # this file
+│   └── Assessment2_MMM_Weekly.csv   # weekly dataset
+├── mmm-analysis2.ipynb               # full Colab-ready notebook
+├── Short_Writeup.md                  # short project summary
+└── README.md                         # this file
 
 
 ---
